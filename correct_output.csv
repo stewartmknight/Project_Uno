@@ -1,4 +1,4 @@
-School Name,School ID,School Type,School Size,10 Year Median Earnings,10 Year Mean Earnings,Lat,Lng,City,State,SAT Score,ACT Scores,Admission Rate,Average Gross Cost,Average Net Price,Locale
+School Name,School ID,School Type,School Size,10 Year Median Earnings,10 Year Mean Earnings,Lat,Lng,City,State,SAT Scores,ACT Scores,Admission Rate,Average Gross Cost,Average Net Price,Locale
 University of California-Merced,445188,Public,7375.0,,,37.366237,-120.424944,Merced,CA,1114.0,24.0,0.6979,34330.0,13223.0,41.0
 University of Southern California,123961,Private,18942.0,74000.0,88800.0,34.021281,-118.284169,Los Angeles,CA,1437.0,32.0,0.1595,69547.0,30232.0,11.0
 West Los Angeles College,125471,Public,9622.0,31500.0,37300.0,34.004512,-118.386664,Culver City,CA,,,,13255.0,6823.0,21.0
